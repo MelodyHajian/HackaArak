@@ -14,7 +14,7 @@ http://arak.hackaglobal.ir/site1
 ------------------------------------------------------------------------
 			Hamid Zarghami		PHP Developer
 			Mostafa Zeinivand	PHP & UI Developer
-			Aref Araghi		Graphic Designer
+			Aref Araghi			Graphic Designer
 			Niloofar Hajian		UI Designer
 			Mehrdad Mozafari	Android Developer
-			Ava Sharif		UI Designer
+			Ava Sharif			UI Designer
