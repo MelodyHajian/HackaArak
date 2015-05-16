@@ -12,8 +12,9 @@
 			<meta name="programmer" content="Mostafa Zeinivand, PHP & UI Developer">
 			<meta name="programmer" content="Hamid Zarghami, PHP Developer">
 			<meta name="programmer" content="Aref Araghi, Graphic Designer">
+			<meta name="programmer" content="Farhood Alimohamadi, Android Developer">
 			<meta name="programmer" content="Niloofar Hajian, UI Designer">
-			<meta name="programmer" content="Mehrdad Mozafari, Android Developer">
+			<meta name="programmer" content="Mehrdad Mozafari, UI Designer">
 			<meta name="programmer" content="Ava Sharif, UI Designer">
 			<title>هاکا ایران</title>
             
