@@ -10,3 +10,11 @@ We quite sure we already have won this competition and people arround the wide w
 </div>
 # URL
 http://arak.hackaglobal.ir/site1
+
+------------------------------------------------------------------------
+			<meta name="programmer" content="Mostafa Zeinivand, PHP & UI Developer">
+			<meta name="programmer" content="Hamid Zarghami, PHP Developer">
+			<meta name="Graphist" content="Aref Araghi, Graphic Designer">
+			<meta name="programmer" content="Niloofar Hajian, UI Designer">
+			<meta name="programmer" content="Mehrdad Mozafari, Android Developer">
+			<meta name="programmer" content="Ava Sharif, UI Designer">
