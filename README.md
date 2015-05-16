@@ -1,6 +1,6 @@
 # HackaArak
 
-<div style='text-align:justify;'>
+<div>
 This HackaGlobal event has been extremely rewarding both personal and professional experiences for each of us.We figured out our ability to design & develop a website without using any pre coded plugin or templates from scratch with the best quality.
 It's all indebted to our strong teamwork that our team members done their job so brilliant.
 Our website has been created in a limited time with highest quality both from graphical & technical aspect that even other teams confirmed this.
