@@ -12,9 +12,10 @@ We quite sure we already have won this competition and people arround the wide w
 http://arak.hackaglobal.ir/site1
 
 ------------------------------------------------------------------------
-			Hamid Zarghami		PHP Developer
-			Mostafa Zeinivand	PHP & UI Developer
-			Aref Araghi			Graphic Designer
-			Niloofar Hajian		UI Designer
-			Mehrdad Mozafari	Android Developer
-			Ava Sharif			UI Designer
+			Hamid Zarghami			PHP Developer
+			Mostafa Zeinivand		PHP & UI Developer
+			Farhood Alimohamadi 		Android Developer
+			Aref Araghi				Graphic Designer
+			Niloofar Hajian			UI Designer
+			Mehrdad Mozafari		UI Designer
+			Ava Sharif				UI Designer
