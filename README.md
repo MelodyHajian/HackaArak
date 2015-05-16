@@ -11,7 +11,7 @@ We quite sure we already have won this competition and people arround the wide w
 # URL
 http://arak.hackaglobal.ir/site1
 
-------------------------------------------------------------------------
+# MEMBERS
 			Hamid Zarghami			PHP Developer
 			Mostafa Zeinivand		PHP & UI Developer
 			Farhood Alimohamadi 	Android Developer
